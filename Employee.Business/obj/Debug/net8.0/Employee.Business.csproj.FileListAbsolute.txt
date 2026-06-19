@@ -1,0 +1,11 @@
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\bin\Debug\net8.0\Employee.Business.deps.json
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\bin\Debug\net8.0\Employee.Business.dll
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\bin\Debug\net8.0\Employee.Business.pdb
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\Employee.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfoInputs.cache
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfo.cs
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.CoreCompileInputs.cache
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\Employee.Business.dll
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\refint\Employee.Business.dll
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\Employee.Business.pdb
+C:\Users\surib\OneDrive\Desktop\practice\EmployeeSolution\Employee.Business\obj\Debug\net8.0\ref\Employee.Business.dll
